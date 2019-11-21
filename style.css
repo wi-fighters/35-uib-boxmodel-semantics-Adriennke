@@ -50,3 +50,9 @@ p a {
 pre {
     color: rgb(65, 143, 65);
 }
+
+footer {
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
